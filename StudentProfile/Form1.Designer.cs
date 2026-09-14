@@ -55,6 +55,8 @@
 
         #endregion
 
-        private Label lblStu;
+        public Label lblStu;
+
+
     }
 }
