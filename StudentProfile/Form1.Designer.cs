@@ -35,11 +35,11 @@
             // 
             lblStu.AutoSize = true;
             lblStu.Font = new Font("Segoe UI", 20.25F, FontStyle.Bold, GraphicsUnit.Point);
-            lblStu.Location = new Point(161, 194);
+            lblStu.Location = new Point(136, 192);
             lblStu.Name = "lblStu";
-            lblStu.Size = new Size(457, 37);
+            lblStu.Size = new Size(497, 37);
             lblStu.TabIndex = 0;
-            lblStu.Text = "Student Profile - Kian Rafael Quite";
+            lblStu.Text = "Student Profile - Github Beginner Lab";
             // 
             // Form1
             // 
