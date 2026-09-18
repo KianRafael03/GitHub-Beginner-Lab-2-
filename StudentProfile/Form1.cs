@@ -5,7 +5,7 @@ namespace StudentProfile
         public Form1()
         {
             InitializeComponent();
-            lblStu.Text = "Student Search — Enter Student ID or Name to view details.";
+            lblStu.Text = "Kian's Version: Student Search System";
         }
 
 
